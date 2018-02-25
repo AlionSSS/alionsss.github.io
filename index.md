@@ -4,7 +4,7 @@ You can use the [editor on GitHub](https://github.com/AlionSSS/alionsss.github.i
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-![欢迎](https://i2.hdslb.com/bfs/archive/0dc8e45b65a54a80f6bd34e3107eb4ff9fb651ad.jpg)
+![欢迎](http://i2.hdslb.com/bfs/archive/0dc8e45b65a54a80f6bd34e3107eb4ff9fb651ad.jpg)
 
 *欢迎光临 (´･ω･`)*
 
