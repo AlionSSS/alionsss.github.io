@@ -8,7 +8,7 @@ url: localhost:3000
 
 # User settings
 username: A Lion~
-user_description: 做过Android、Web后台、网络爬虫、大数据等。大数据方面，拥有海量数据处理经验（500亿/日），包括集群搭建、分析、应用开发、算法设计等。个人技能：华为FI平台、CDH平台、Spark、Flink、HBase、Hive、Hadoop、ElasticSearch、Kafka、MPP、机器学习等。擅长大数据架构设计、Spark开发与优化、算法研发。
+user_description: 做过大数据、Web后台、网络爬虫、Android等。大数据方面，拥有海量数据处理经验（500亿/日），包括集群搭建、分析、应用开发、算法设计等。个人技能：华为FI平台、CDH平台、Spark、Flink、HBase、Hive、Hadoop、ElasticSearch、Kafka、MPP、机器学习等。擅长大数据架构设计、Spark开发与优化、算法研发。
 user_title: Software Developer
 email: alionsss@foxmail.com
 twitter_username: lorem_ipsum
