@@ -1,1 +1,1 @@
-$^&{"content": "暂无更新内容！", "url": "None"}$^&
+$^&{content: 暂无更新内容！, url: None}$^&
